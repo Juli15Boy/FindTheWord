@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Find The Word</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_right_drawer">Right Drawer</string>
+    <string name="nav_definitions">Definitions</string>
+    <string name="nav_synonyms">Synonyms</string>
+    <string name="nav_antonyms">Antonyms</string>
+    <string name="nav_examples">Examples</string>
+    <string name="nav_rhymes">Rhymes</string>
+    <string name="nav_typeOf">TypeOf</string>
+    <string name="nav_frequency">Frequency</string>
+    <string name="loading">Loading</string>
+    <string name="about_es">About Us</string>
+    <string name="nav_more_apps">More Apps</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="egg_clicker">Egg Clicker</string>
+</resources>

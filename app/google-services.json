@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "631042429264",
+    "firebase_url": "https://findtheword-1ac38.firebaseio.com",
+    "project_id": "findtheword-1ac38",
+    "storage_bucket": "findtheword-1ac38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631042429264:android:ba5788a94d315b0c",
+        "android_client_info": {
+          "package_name": "com.infideap.drawerbehaviorexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631042429264-8i3c9dtc137vlf9t0ma0b8m6ei0br5d5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infideap.drawerbehaviorexample",
+            "certificate_hash": "e5616b8b5ce3d43598094141a794e78eec69f71d"
+          }
+        },
+        {
+          "client_id": "631042429264-bsavfbsdncp9lrit1hhqegsfj62ov1fn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9z3dF15kSQVo4yoBSbPNf_IYesjlDSDs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631042429264-bsavfbsdncp9lrit1hhqegsfj62ov1fn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631042429264:android:24e1d01ec7681ef3",
+        "android_client_info": {
+          "package_name": "findtheword.aqibteam.com.findtheword"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631042429264-pmp5tccunq5ta0b8k55f3o91ql5kfkjp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "findtheword.aqibteam.com.findtheword",
+            "certificate_hash": "e5616b8b5ce3d43598094141a794e78eec69f71d"
+          }
+        },
+        {
+          "client_id": "631042429264-bsavfbsdncp9lrit1hhqegsfj62ov1fn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9z3dF15kSQVo4yoBSbPNf_IYesjlDSDs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631042429264-bsavfbsdncp9lrit1hhqegsfj62ov1fn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

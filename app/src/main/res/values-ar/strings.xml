@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">البحث عن الكلمة</string>
+    <string name="navigation_drawer_open">فتح درج التنقل</string>
+    <string name="navigation_drawer_close">أغلق درج التنقل</string>
+    <string name="action_right_drawer">الدرج الأيمن</string>
+    <string name="hello_blank_fragment">مرحبا شظية فارغة</string>
+    <string name="nav_definitions">تعريفات</string>
+    <string name="nav_synonyms">مرادفات</string>
+    <string name="nav_antonyms">المتضادات</string>
+    <string name="nav_examples">أمثلة</string>
+    <string name="nav_rhymes">القوافي</string>
+    <string name="nav_typeOf">نوع من</string>
+    <string name="nav_frequency">تكرر</string>
+    <string name="loading">جار التحميل</string>
+    <string name="about_es">معلومات عنا</string>
+    <string name="nav_more_apps">تطبيقات أكثر</string>
+    <string name="egg_clicker">Egg Clicker</string>
+</resources>

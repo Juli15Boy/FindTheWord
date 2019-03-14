@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Encuentre la palabra</string>
+    <string name="navigation_drawer_open">Cajón de navegación abierto.</string>
+    <string name="navigation_drawer_close">Cerrar el cajon de navegacion</string>
+    <string name="action_right_drawer">Cajón derecho</string>
+    <string name="nav_definitions">Definiciones</string>
+    <string name="nav_synonyms">Sinónimos</string>
+    <string name="nav_antonyms">Antónimos</string>
+    <string name="nav_examples">Ejemplos</string>
+    <string name="nav_rhymes">Rimas</string>
+    <string name="nav_typeOf">Tipo de</string>
+    <string name="nav_frequency">Frecuencia</string>
+    <string name="loading">Cargando</string>
+    <string name="about_es">Sobre nosotros</string>
+    <string name="nav_more_apps">Más aplicaciones</string>
+    <string name="egg_clicker">Egg Clicker</string>
+</resources>

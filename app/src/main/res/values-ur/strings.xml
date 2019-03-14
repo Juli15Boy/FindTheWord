@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">لفظ تلاش کریں</string>
+    <string name="navigation_drawer_open">کھولیں نیویگیشن دراج</string>
+    <string name="navigation_drawer_close">بند نیویگیشن دراج</string>
+    <string name="action_right_drawer">دائیں دراج</string>
+    <string name="nav_definitions">تعریفیں</string>
+    <string name="nav_synonyms">ہم آہنگی</string>
+    <string name="nav_antonyms">انترنات</string>
+    <string name="nav_examples">مثال</string>
+    <string name="nav_rhymes">یونان</string>
+    <string name="nav_typeOf">کی قسم</string>
+    <string name="nav_frequency">فریکوئینسی</string>
+    <string name="loading">لوڈ کر رہا ہے</string>
+    <string name="about_es">ہمارے بارے میں</string>
+    <string name="nav_more_apps">زیادہ اطلاقات</string>
+    <string name="egg_clicker">Egg Clicker</string>
+</resources>
