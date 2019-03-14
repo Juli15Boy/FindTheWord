@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.philliphsu:bottomsheetpickers-2.4.1">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/bottomsheetpickers-2.4.1.aar/011f734c28d62f662ded4d659c9a826d/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/bottomsheetpickers-2.4.1.aar/011f734c28d62f662ded4d659c9a826d/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/bottomsheetpickers-2.4.1.aar/011f734c28d62f662ded4d659c9a826d/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.philliphsu/bottomsheetpickers/2.4.1/c18dedd3ca6b9d47b508ce308bd40e30faf4e7d4/bottomsheetpickers-2.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

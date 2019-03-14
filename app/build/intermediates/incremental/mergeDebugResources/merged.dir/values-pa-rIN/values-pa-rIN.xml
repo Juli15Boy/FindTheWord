@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="3968620852217927702" name="bsp_day_picker_description">"ਦਿਨਾਂ ਦਾ ਮਹੀਨਾ ਗ੍ਰਿਡ"</string>
+    <string msgid="6908431551612331381" name="bsp_deleted_key">"<ns1:g id="KEY">%1$s</ns1:g> ਮਿਟਾਈ ਗਈ"</string>
+    <string msgid="7007948707597430919" name="bsp_done_label">"ਹੋ ਗਿਆ"</string>
+    <string msgid="7586639618712934060" name="bsp_hour_picker_description">"ਘੰਟੇ ਸਰਕੁਲਰ ਸਲਾਈਡਰ"</string>
+    <string msgid="2674929164900463786" name="bsp_item_is_selected">"<ns1:g id="ITEM">%1$s</ns1:g> ਚੁਣੀ ਗਈ"</string>
+    <string msgid="6024811202872705251" name="bsp_minute_picker_description">"ਮਿੰਟ ਸਰਕੁਲਰ ਸਲਾਈਡਰ"</string>
+    <string msgid="3973338219107019769" name="bsp_select_day">"ਮਹੀਨਾ ਅਤੇ ਦਿਨ ਚੁਣੋ"</string>
+    <string msgid="7651068754188418859" name="bsp_select_hours">"ਘੰਟੇ ਚੁਣੋ"</string>
+    <string msgid="8327182090226828481" name="bsp_select_minutes">"ਮਿੰਟ ਚੁਣੋ"</string>
+    <string msgid="2603330600102539372" name="bsp_select_year">"ਸਾਲ ਚੁਣੋ"</string>
+    <string msgid="6963340404644587098" name="bsp_year_picker_description">"ਸਾਲ ਸੂਚੀ"</string>
+</resources>

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Android Projects\\Findtheword\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-port-v13\\values-sw600dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\julia\\.gradle\\caches\\transforms-1\\files-1.1\\bottomsheetpickers-2.4.1.aar\\011f734c28d62f662ded4d659c9a826d\\res\\values-sw600dp-port-v13\\values-sw600dp-port-v13.xml",
+                    "from": {
+                        "startLines": "2,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,164",
+                        "endLines": "4,7",
+                        "endColumns": "12,12",
+                        "endOffsets": "159,275"
+                    }
+                }
+            ]
+        }
+    ]
+}

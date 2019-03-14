@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Android Projects\\Findtheword\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gl-rES\\values-gl-rES.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\julia\\.gradle\\caches\\transforms-1\\files-1.1\\bottomsheetpickers-2.4.1.aar\\011f734c28d62f662ded4d659c9a826d\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,212,326,405,535,658,792,887,980,1077,1167",
+                        "endColumns": "106,113,78,129,122,133,94,92,96,89,99",
+                        "endOffsets": "207,321,400,530,653,787,882,975,1072,1162,1262"
+                    }
+                }
+            ]
+        }
+    ]
+}

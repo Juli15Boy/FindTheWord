@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Android Projects\\Findtheword\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sq-rAL\\values-sq-rAL.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\julia\\.gradle\\caches\\transforms-1\\files-1.1\\bottomsheetpickers-2.4.1.aar\\011f734c28d62f662ded4d659c9a826d\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,213,323,404,518,655,774,871,958,1050,1137",
+                        "endColumns": "107,109,80,113,136,118,96,86,91,86,100",
+                        "endOffsets": "208,318,399,513,650,769,866,953,1045,1132,1233"
+                    }
+                }
+            ]
+        }
+    ]
+}

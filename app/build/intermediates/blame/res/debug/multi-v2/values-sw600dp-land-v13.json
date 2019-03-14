@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Android Projects\\Findtheword\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-land-v13\\values-sw600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\julia\\.gradle\\caches\\transforms-1\\files-1.1\\bottomsheetpickers-2.4.1.aar\\011f734c28d62f662ded4d659c9a826d\\res\\values-sw600dp-land-v13\\values-sw600dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,110,162,271",
+                        "endLines": "2,3,6,9",
+                        "endColumns": "54,51,12,12",
+                        "endOffsets": "105,157,266,382"
+                    }
+                }
+            ]
+        }
+    ]
+}

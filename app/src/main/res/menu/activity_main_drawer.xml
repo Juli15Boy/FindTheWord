@@ -4,24 +4,24 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/nav_definitions"
-            android:icon="@drawable/ic_menu_camera"
+            android:icon="@drawable/ic_definition"
             android:title="@string/nav_definitions" />
         <item
             android:id="@+id/nav_synonyms"
-            android:icon="@drawable/ic_menu_gallery"
+            android:icon="@drawable/ic_sinonim"
             android:title="@string/nav_synonyms" />
         <item
             android:id="@+id/nav_antonyms"
-            android:icon="@drawable/ic_menu_slideshow"
+            android:icon="@drawable/ic_antonims"
             android:title="@string/nav_antonyms" />
         <item
             android:id="@+id/nav_examples"
-            android:icon="@drawable/ic_menu_manage"
+            android:icon="@drawable/ic_exemples"
             android:title="@string/nav_examples" />
 "
         <item
             android:id="@+id/nav_typeOf"
-            android:icon="@drawable/ic_menu_manage"
+            android:icon="@drawable/ic_tipus"
             android:title="@string/nav_typeOf" />
 
 
@@ -31,7 +31,7 @@
         <menu>
             <item
                 android:id="@+id/nav_about_us"
-                android:icon="@drawable/ic_menu_share"
+                android:icon="@drawable/ic_about"
                 android:title="@string/about_es" />
             <item
                 android:id="@+id/nav_more_apps"

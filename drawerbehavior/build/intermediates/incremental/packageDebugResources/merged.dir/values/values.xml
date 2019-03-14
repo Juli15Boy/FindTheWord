@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Drawer Behavior</string>
+    <declare-styleable name="advDrawerLayout">
+        <attr format="boolean" name="adl_customBehavior"/>
+        <attr format="float" name="adl_viewScale"/>
+        <attr format="color" name="adl_viewScrimColor"/>
+        <attr format="dimension" name="adl_viewElevation"/>
+        <attr format="dimension" name="adl_drawerElevation"/>
+    </declare-styleable>
+</resources>
