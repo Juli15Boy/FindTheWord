@@ -164,7 +164,7 @@ public class DefinitionFragment extends Fragment implements View.OnClickListener
             @Override
             public Map<String, String> getHeaders() throws AuthFailureError {
                 Map<String, String> params = new HashMap<String, String>();
-                params.put("X-Mashape-Key", "Ta7QI7gkpOmshSzYBs40h5JvI37yp1AIbF2jsnjSundrpMA0iE");
+                params.put("X-Mashape-Key", "API_KEY");
                 params.put("Content-Type", "application/json");
                 params.put("Accept", "application/json");
                 return params;
